@@ -2,6 +2,8 @@
 
 This repository contains solutions for [Advent of Code](https://adventofcode.com/) implemented in Go.
 
+Most of the solutions are quick-and-dirty implementations so expect shortcuts and don't expect optimized, clean or idiomatic code.
+
 ## Structure
 
 - **`cmd/`**: Day-specific solutions.
